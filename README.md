@@ -1,4 +1,3 @@
 # TSARNN
-Time Series Analysis and Recurrent Neural Networks
+Exercise sheets from **Time Series Analysis and Recurrent Neural Networks**
 
-Exercise sheets
